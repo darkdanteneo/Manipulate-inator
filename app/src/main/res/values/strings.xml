@@ -1,0 +1,136 @@
+<resources>
+    <string name="app_name">Manipulativinator</string>
+    <string-array name="branch">
+        <item>IT</item>
+        <item>CSE</item>
+        <item>ECE</item>
+        <item>CE</item>
+        <item>EE</item>
+    </string-array>
+    <string-array name="semester8">
+        <item>2</item>
+        <item>4</item>
+        <item>6</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="semester2">
+        <item>2</item>
+    </string-array>
+
+    <string-array name="subjectCSE8">
+        <item>DataMining</item>
+        <item>Soft Computing</item>
+        <item>Distributed Systems</item>
+        <item>Open Elective</item>
+        <item>ProElective2</item>
+        <item>Project2</item>
+        <item>Project Seminar</item>
+        <item>General Prof</item>
+    </string-array>
+    <string-array name="subjectIT8">
+        <item>Multimedia Tech</item>
+        <item>InfoSecIT</item>
+        <item>DataMining</item>
+        <item>OpenElective</item>
+        <item>ProElective2</item>
+        <item>Project2</item>
+        <item>MTLab</item>
+        <item>GeneralProf</item>
+    </string-array>
+    <string-array name="subjectCSE2">
+        <item>Comm. Skill</item>
+        <item>Ap Maths-II</item>
+        <item>C Theory</item>
+        <item>Basic EE</item>
+        <item>C- Lab</item>
+        <item>BEE - Lab</item>
+        <item>Cet- Workshop</item>
+    </string-array>
+    <string-array name="subjectCSE4">
+        <item>Disc. Maths</item>
+        <item>Os</item>
+        <item>SAD</item>
+        <item>ACA</item>
+        <item>ADA</item>
+        <item>TAC</item>
+        <item>OS LAB</item>
+        <item>ADA lab</item>
+        <item>Sad p-lab</item>
+        <item>Computer-Networks</item>
+        <item>CN-LAB-4</item>
+    </string-array>
+    <string-array name="subjectCSE6">
+        <item>Model  Sim</item>
+        <item>CG</item>
+        <item>Comp Netw</item>
+        <item>Stats math</item>
+        <item>Core java</item>
+        <item>Digital com.</item>
+        <item>java lab</item>
+        <item>Modeling  sim  lab</item>
+        <item>Cn- Lab</item>
+        <item>Cg- Lab</item>
+        <item>Parallel-Computing</item>
+    </string-array>
+    <string-array name="subjectIT2">
+        <item>Ap- Maths II</item>
+        <item>C - Theory</item>
+        <item>Comm and Skill</item>
+        <item>Bee Theory</item>
+        <item>c -lab 2</item>
+        <item>be lab -2</item>
+        <item>It Workshop</item>
+    </string-array>
+    <string-array name="subjectIT4">
+        <item>MIS</item>
+        <item>Operating System</item>
+        <item>Digital - Data Com</item>
+        <item>Sad  theory</item>
+        <item>HCI</item>
+        <item>oS LAB</item>
+        <item>DIGITAL DATA LAB</item>
+        <item>SAD Project</item>
+        <item>Cn-theory</item>
+        <item>cn-lab</item>
+    </string-array>
+    <string-array name="subjectIT6">
+        <item>oos</item>
+        <item>weB TECH</item>
+        <item>Artificial Intelligence</item>
+        <item>CN management</item>
+        <item>Error</item>
+        <item>Core Java</item>
+        <item>Core Java it lab</item>
+        <item>Ai lab</item>
+        <item>Web tech lab</item>
+        <item>c lab</item>
+        <item>Ai-lab</item>
+    </string-array>
+    <string-array name="subjectECE2">
+        <item>Math</item>
+        <item>C theroy ece</item>
+        <item>BEE theory</item>
+        <item>C lab</item>
+        <item>BEE lab ece</item>
+        <item>ECE workshop</item>
+        <item>Elec and comm</item>
+    </string-array>
+    <string-array name="subjectEE2">
+        <item>Math</item>
+        <item>Physics</item>
+        <item>BEE theory</item>
+        <item>Mech</item>
+        <item>ap lab</item>
+        <item>ed lab</item>
+        <item>be lab</item>
+    </string-array>
+    <string-array name="subjectCE2">
+        <item>Math</item>
+        <item>Physics</item>
+        <item>Belec</item>
+        <item>Mech</item>
+        <item>ap lab</item>
+        <item>ed lab</item>
+        <item>be lab</item>
+    </string-array>
+</resources>
